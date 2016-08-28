@@ -1,0 +1,29 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Dan",
+    "age": 20,
+    "hobbies": [
+      "reading",
+      "travel"
+    ]
+  },
+  "2": {
+    "id": "2",
+    "name": "Marie",
+    "age": 23,
+    "hobbies": [
+      "programming",
+      "running"
+    ]
+  },
+  "3": {
+    "id": "3",
+    "name": "Jessie",
+    "age": 24,
+    "hobbies": [
+      "football",
+      "swimming"
+    ]
+  }
+}
